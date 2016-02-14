@@ -72,6 +72,7 @@ README.md
 3. I don't use a `constants`, `actions`, or `reducers` folder for the same reason specified in #1.
 
 ## TODO
+- Implement Reselect.
 - Implement CSS modules.
 - Implement redux router.
 - Implement animations and transitions.
