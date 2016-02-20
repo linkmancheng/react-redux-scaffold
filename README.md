@@ -72,11 +72,12 @@ README.md
 3. I don't use a `constants`, `actions`, or `reducers` folder for the same reason specified in #1.
 
 ## TODO
+- Move conventions to [eslint-config-reactjs](https://github.com/reactjs/eslint-config-reactjs) or maybe [standardjs react](https://github.com/feross/eslint-config-standard-react)?
 - Implement Reselect.
 - Implement CSS modules.
 - Implement redux router.
 - Implement animations and transitions.
 - Implement a task to generate automated documentation based on components/containers.
-- Create a yeoman generator for this?
+- ~~Create a yeoman generator for this?~~ Create some [plop](https://github.com/amwmedia/plop) generators.
 
 ### Happy hacking!
